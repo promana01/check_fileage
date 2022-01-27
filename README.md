@@ -1,5 +1,5 @@
 # check_fileage
-
+This fork is an update to adapt the code to python 3.
 ## Purpose
 
 Nagios plugin to check if a file is present or not and if it has changed within a certain time.
@@ -19,7 +19,7 @@ Description from exchange.nagios.org:
 
     Usage: check_fileage.py -f /mount/path/file.ext -w nnnn -c nnnn C|M -V -h 
 
-    Tested on Window W2K3 and XP, and Centos 4.4 using Python 2.5
+    Tested on Window W2010 and XP, and Ubuntu 20 using Python 3.x
 
 ## Additional requirements
 
